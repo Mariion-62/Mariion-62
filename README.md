@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marion, FullStack Developer (React, Node)
+I'm Marion, FullStack Developer (React, Next.JS, Nest.JS, Vue.JS)
 
 <!--
 **Mariion-62/Mariion-62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
